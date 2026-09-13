@@ -1,0 +1,501 @@
+appliance_type,appliance_power_watts,usage_hours,temperature_c,room_size_m2,number_of_people,time_of_day,day_type,previous_consumption_kwh,energy_consumption_kwh
+washing machine,679,2.5,30,24,3,Afternoon,weekday,1.91,1.94
+refrigerator,189W,24.0,25,33,3, EVENING ,Weekday,?,4.25
+refrigerator,250,24.0,29,31,5,Night,Weekday,6.13,5.89
+TV,207,2.5,31,53,4,Morning,weekday,0.89,0.64
+heater ,1566,3.9,5,13,1,Night,WEEKEND,7.36,7.67
+Heater,1674,4.8,6,missing,missing,Night,Weekend,9.02,8.69
+Washing Machine,503,99.0,27,13,6,Night,Weekend,0.1,0.28
+washing machine,689,3.2,25,30,5,Afternoon,weekday,2.59,2.27
+Microwave,1187,0.2,29,54,1,Morning,weekday,0.1,0.18
+Heater,1562,3.6,14,26,,Evening,Weekday,6.8,6.75
+TV,60,2.5,29,16,1,Afternoon ,weekday,0.47,0.11
+Microwave,1103,1.6,23,36,3,Morning,weekday,1.68,1.87
+Air Conditioner,1704,3.4,37,23,3,Afternoon,WEEKEND,7.88,8.31
+ Refrigerator ,250,24.0,24,54,?,morning,WEEKEND,6.59,6.55
+air conditioner,1985,5.6,39,11,2,morning,Weekend,13.8,13.7
+Microwave,1107,0.2,29,29,unknown,Afternoon ,WEEKEND,0.67,0.45
+Air Conditioner,1820,5.7,38,22,1,Evening,weekday,12.13,12.5
+refrigerator,140W,24.0,27,53,3, EVENING ,WEEKEND,3.97,3.92
+Air Conditioner,1761,7.1,28,21,6,morning,Weekday,14.24,14.26
+washing machine,628,2.3,20,11,5,Night,Weekend,1.97,1.74
+ TV ,154,4.9,23,33,unknown,Evening,weekday,0.71,1.01
+air conditioner,2047,4.4,39,45,3,Afternoon,weekday,missing,11.87
+washing machine,551,2.5,26,42,2,Morning,Weekday,1.54,1.48
+TV,118,2.6,24,25,2,Morning,WEEKEND,0.33,0.27
+Microwave,1196,0.2,22,41,3,Evening,WEEKEND,0.3,0.27
+Washing Machine,569,1.6,18,33,4,Evening,Weekday,0.82,1.03
+AC,1827,7.5,41,27,2,Morning,WEEKEND,17.91,18.2
+refrigerator,137,24.0,21,17,3,Morning,WEEKEND,3.29,3.55
+air conditioner,2018,5.1,33,39,6, EVENING ,Weekday,13.55,13.56
+ TV ,30,4.4,31,42,4,Night,Weekday,1.08,0.24
+Air Conditioner,1716,6.0,39,37,6,morning,Weekend,?,13.21
+heater ,1436,6.6,11,N/A,1,Night,Weekday,11.74,11.81
+washing machine,660,1.5,20,27,1,Afternoon,weekday,1.27,0.85
+ TV ,139,3.9,27,26,1,Afternoon ,Weekday,0.26,0.46
+AC,1852,4.8,35,22,?,Afternoon,weekday,11.81,11.81
+Air Conditioner,1707,5.7,41,25,6,Night,Weekend,13.39,13.34
+Washing Machine,500,0.6,26,31,2,Afternoon,Weekend,0.1,0.31
+refrigerator,97,24.0,22,53,4,morning,weekday,3.44,2.89
+washing machine,667,1.9,21,25,5,Evening,WEEKEND,,1.36
+TV,136,4.8,31,32,N/A,Night,Weekday,0.43,0.53
+Washing Machine,497,1.9,26,49,5, EVENING ,Weekday,?,1.24
+air conditioner,1985,4.5,36,38,6,Night,Weekday,11.24,11.42
+ Refrigerator ,296,24.0,29,25,2,Afternoon,WEEKEND,missing,6.79
+refrigerator,112W,24.0,27,19,6,morning,WEEKEND,?,2.86
+TV,166,5.9,27,N/A,1,Afternoon ,Weekend,0.98,0.96
+ TV ,93W,3.1,25,21,2,Evening,WEEKEND,0.21,0.29
+ TV ,110,3.8,29,12,1,Morning,Weekend,0.62,0.35
+TV,181,3.5,20,50,4,Afternoon,Weekday,missing,0.76
+Heater,1663,4.2,12,30,5,Morning,WEEKEND,7.19,7.73
+washing machine,595,0.8,25,32,6,morning,WEEKEND,,0.76
+heater ,1498,4.2,12,39,1,Morning,Weekend,,9.08
+ Refrigerator ,239,24.0,30,50,missing,Night,Weekday,5.75,5.65
+ Refrigerator ,182,24.0,27,25,5,morning,weekday,4.81,4.47
+refrigerator,142,24.0,24,25,1,Afternoon ,Weekday,4.03,3.93
+ TV ,155,5.2,29,18,2,Afternoon,WEEKEND,0.83,0.81
+Heater,1669,5.0,12,36,missing, EVENING ,weekday,?,8.43
+Washing Machine,594,1.7,24,34,5,Night,WEEKEND,1.03,1.09
+Microwave,1181,0.2,24,36,2,Night,Weekend,0.34,0.24
+Air Conditioner,1830,5.2,40,37,6,Morning,weekday,11.94,11.95
+Air Conditioner,1865,6.2,32,15,2,morning,WEEKEND,12.52,12.38
+AC,1746,6.6,36,23,1,morning,Weekend,14.26,14.2
+heater ,1411,6.7,13,,6,Afternoon,WEEKEND,9.46,9.82
+Microwave,1177,2.0,29,37,5,Morning,WEEKEND,2.23,2.12
+ Refrigerator ,256,24.0,30,44,5, EVENING ,Weekend,6.62,7.14
+heater ,1593,3.3,13,39,2,Morning,Weekend,6.28,6.19
+heater ,1485,3.4,14,36,1,morning,Weekday,4.33,4.6
+Air Conditioner,1848,6.0,34,15,4,morning,Weekday,12.24,12.33
+Air Conditioner,1750W,4.4,40,22,missing, EVENING ,Weekday,11.47,11.01
+Microwave,1094,0.2,25,48,2,Evening,weekday,0.49,0.21
+Microwave,1132,0.2,31,39,3,Morning,Weekday,0.7,0.29
+AC,1774,6.7,30,48,6,Afternoon,Weekend,14.54,14.29
+air conditioner,2090,7.1,29,47,1,Afternoon ,WEEKEND,16.46,17.03
+Air Conditioner,1832,6.0,40,13,2,Night,WEEKEND,13.83,13.71
+refrigerator,283,24.0,30,52,3,Evening,weekday,6.17,6.82
+ TV ,127,5.5,25,13,missing,Morning,weekday,1.12,0.8
+AC,1760,6.0,37,28,missing,morning,Weekend,11.66,12.09
+AC,1876,6.3,41,35,5,Evening,Weekday,14.8,15.07
+Washing Machine,505,1.7,31,N/A,,Night,weekday,1.19,0.95
+TV,47W,4.1,24,23,2,morning,Weekend,0.29,0.2
+ TV ,27,2.6,27,47,3,Afternoon ,Weekday,0.2,0.12
+Air Conditioner,1785W,4.7,120,53,1,Morning,Weekday,13.64,13.38
+air conditioner,2008,6.5,29,unknown,,Morning,WEEKEND,15.63,15.75
+Washing Machine,629,0.8,27,43,3,Evening,Weekday,0.52,0.58
+refrigerator,239,24.0,22,15,6,Afternoon ,WEEKEND,5.63,5.75
+Heater,1554,5.8,12,12,3,Afternoon ,Weekend,10.14,10.14
+Washing Machine,628,2.0,31,11,N/A,Afternoon,weekday,1.41,1.26
+TV,137,2.4,21,28,4,Afternoon ,Weekday,0.1,0.43
+refrigerator,215W,24.0,28,45,5,Evening,weekday,5.61,5.65
+TV,24,3.6,24,19,4,Afternoon,Weekday,,0.18
+refrigerator,162,24.0,18,18,3,Afternoon ,WEEKEND,4.48,4.34
+Air Conditioner,1768,6.4,41,53,2,Morning,Weekend,14.77,14.62
+Heater,1510W,6.6,12,46,6,Night,Weekend,10.87,10.73
+air conditioner,2022W,5.9,41,35,6,Morning,Weekend,14.8,14.88
+air conditioner,2024,6.3,33,42,,Morning,Weekday,14.96,14.71
+refrigerator,193,24.0,25,48,3, EVENING ,Weekend,4.88,5.14
+TV,211,5.7,21,24,,Evening,WEEKEND,1.64,1.35
+Air Conditioner,1895,6.7,33,11,2,morning,weekday,13.09,13.01
+ Refrigerator ,208,24.0,25,24,5,morning,Weekday,5.17,5.45
+AC,1854,7.2,42,45,4,Night,weekday,19.38,19.41
+Washing Machine,649,1.8,24,35,6,Evening,WEEKEND,1.21,1.34
+Heater,1559,6.8,14,21,4,morning,WEEKEND,12.32,11.96
+TV,156,4.7,23,38,6,Morning,Weekend,0.74,0.89
+ Refrigerator ,281,24.0,24,?,6,Afternoon ,weekday,6.46,6.0
+heater ,1452,5.0,12,19,4,Evening,weekday,9.52,9.2
+Washing Machine,579,1.3,24,27,3,Afternoon,weekday,0.63,0.71
+Microwave,1178,0.2,23,,missing,Morning,Weekday,0.1,0.18
+TV,175,4.9,19,30,1,Afternoon ,Weekday,0.71,0.76
+Heater,1548,3.6,10,missing,5,Evening,Weekend,5.69,5.86
+Heater,1518,4.5,5,10,6,Evening,weekday,11.13,10.55
+Air Conditioner,1813,5.7,41,47,3,morning,weekday,13.67,13.71
+TV,129,4.5,19,42,4,Afternoon,weekday,0.69,0.68
+washing machine,566,4.6,25,32,3,Morning,weekday,?,2.69
+Microwave,1007,0.6,19,missing,6, EVENING ,weekday,0.47,0.79
+washing machine,675,0.3,19,16,2,Afternoon,Weekday,0.1,0.23
+TV,149,5.0,20,32,4,Night,Weekday,0.73,0.93
+heater ,1452,4.7,15,44,4,Evening,Weekend,6.54,6.94
+AC,1814W,6.4,28,23,1,Afternoon,Weekday,10.7,10.84
+Washing Machine,453,2.6,27,38,5, EVENING ,Weekend,1.85,1.45
+heater ,1565,4.6,5,26,5,Morning,Weekend,8.97,8.81
+TV,105,4.9,22,36,1,Afternoon,WEEKEND,0.4,0.43
+TV,192W,6.3,18,35,5,Night,Weekend,1.3,1.29
+Microwave,1053,0.5,28,10,3,morning,Weekday,0.5,0.57
+ Refrigerator ,212,24.0,28,48,3, EVENING ,Weekend,5.79,5.63
+Washing Machine,518,1.4,25,42,2,Night,weekday,0.3,0.76
+ TV ,15000,4.6,31,54,3,morning,Weekday,0.49,0.44
+heater ,1460,4.2,14,49,2,Morning,weekday,7.21,7.39
+Air Conditioner,1888W,4.7,28,19,1, EVENING ,WEEKEND,9.17,9.06
+refrigerator,170,24.0,24,46,6, EVENING ,WEEKEND,4.47,4.49
+ TV ,163,1.8,26,,2,Afternoon ,WEEKEND,0.36,0.3
+washing machine,525,1.3,22,31,,Afternoon ,Weekday,0.6,0.66
+ TV ,91,3.3,31,48,3,Afternoon,weekday,0.46,0.31
+Microwave,1044,0.2,19,12,5,Afternoon ,WEEKEND,0.8,0.4
+ Refrigerator ,192,24.0,23,34,missing,Afternoon,Weekday,4.96,4.88
+AC,1754,7.4,30,51,2, EVENING ,weekday,15.7,15.38
+air conditioner,2022,7.6,34,38,6,Night,weekday,?,16.89
+washing machine,583,1.8,22,,6,Morning,weekday,0.97,1.06
+AC,1767,7.0,29,46,1,Afternoon ,Weekday,13.86,13.93
+ Refrigerator ,239W,24.0,28,46,5,morning,weekday,5.55,5.47
+Heater,1510,5.1,5,34,missing,Night,weekday,10.38,10.48
+Washing Machine,566,0.9,20,54,6,Afternoon,Weekday,0.85,0.68
+Washing Machine,454,0.9,22,32,1,Morning,weekday,1.12,0.38
+ TV ,172,5.7,19,27,6,morning,weekday,1.08,1.12
+Heater,1566,6.1,14,37,5,Morning,weekday,11.21,10.88
+refrigerator,228,24.0,28,missing,4,Afternoon ,Weekend,5.68,5.97
+TV,165,4.0,23,46,4,Evening,Weekend,,0.82
+Heater,1590,5.8,4,15,3,Night,Weekday,10.87,10.95
+ TV ,54,4.9,26,missing,4,Afternoon ,Weekday,0.27,0.38
+washing machine,658,1.2,19,45,2, EVENING ,Weekday,0.78,0.78
+ TV ,122,4.1,26,unknown,unknown,Evening,WEEKEND,0.67,0.59
+TV,82,3.6,29,24,6,morning,Weekday,0.62,0.47
+ Refrigerator ,167W,24.0,28,,missing, EVENING ,Weekday,3.8,3.51
+TV,139,6.0,28,27,missing,Night,Weekday,0.59,0.78
+Air Conditioner,1833,5.8,42,24,unknown,Evening,Weekend,14.15,14.16
+air conditioner,2040,4.0,36,48,5,Afternoon,weekday,12.34,12.0
+ TV ,204,4.8,18,53,4,morning,Weekday,0.75,0.92
+TV,143,2.7,23,24,2,Afternoon ,WEEKEND,unknown,0.43
+heater ,1544W,4.5,8,17,3, EVENING ,Weekend,9.27,8.87
+Microwave,1180,0.3,25,12,?, EVENING ,weekday,0.62,0.51
+ Refrigerator ,108,24.0,23,,6,morning,Weekday,2.18,2.62
+Air Conditioner,1771,8.0,32,27,6,Afternoon,Weekend,17.52,17.3
+Microwave,1101,0.2,26,17,3,Morning,WEEKEND,0.99,0.27
+ Refrigerator ,260,24.0,27,49,2,Night,Weekday,unknown,6.23
+Air Conditioner,1776,6.0,31,35,6,Afternoon ,Weekend,13.6,13.43
+TV,138,5.7,29,49,3,Afternoon ,WEEKEND,1.04,0.93
+Heater,1677,4.8,15,29,6,Afternoon ,weekday,10.29,10.35
+ Refrigerator ,233,24.0,27,31,2,Afternoon ,weekday,6.21,6.35
+Microwave,1086,0.2,29,22,1,Afternoon ,Weekend,0.1,0.17
+washing machine,552W,1.5,24,41,3,Night,Weekend,0.31,0.91
+ TV ,140,3.0,29,19,3,Afternoon ,weekday,0.4,0.48
+refrigerator,248,24.0,27,33,4,morning,WEEKEND,5.5,5.24
+Microwave,1151,1.2,19,41,1,Night,Weekend,1.85,1.32
+AC,1778,5.6,29,45,6,Evening,Weekday,11.07,10.7
+Air Conditioner,1798,5.9,37,17,4, EVENING ,weekday,11.42,10.99
+AC,1818,4.8,32,14,6,Night,Weekday,9.87,9.64
+heater ,1483,1.7,5,48,6,Morning,weekday,?,4.21
+air conditioner,1904,3.4,42,10,4,Evening,Weekend,8.46,8.44
+TV,95,2.7,31,50,1,morning,WEEKEND,0.25,0.22
+heater ,1463,4.2,9,29,4,Morning,WEEKEND,8.93,8.82
+Washing Machine,557,2.8,28,29,2, EVENING ,Weekend,1.38,1.52
+TV,48W,4.2,18,44,6,Night,Weekend,0.23,0.37
+ TV ,52W,1.0,31,43,1,Afternoon,Weekday,0.43,0.1
+ TV ,187,4.6,24,,6,Afternoon,WEEKEND,1.05,0.97
+Washing Machine,454,0.8,23,43,1,Afternoon ,weekday,0.43,0.32
+AC,1844W,7.6,37,17,1,Evening,weekday,16.77,17.1
+refrigerator,194,24.0,27,37,2,Afternoon,WEEKEND,5.56,5.26
+heater ,1476,4.2,12,20,4,Afternoon,Weekday,7.74,7.78
+heater ,1422,3.0,6,54,3,Afternoon ,Weekday,5.89,5.56
+TV,218,2.5,22,28,4,morning,Weekday,,0.7
+air conditioner,2071,6.6,33,35,3,Afternoon,Weekend,16.26,16.93
+TV,91,3.3,19,15,4,morning,Weekday,N/A,0.36
+AC,1747,4.1,32,24,4,Afternoon ,Weekend,8.41,8.15
+ TV ,30W,4.5,24,52,5,Night,weekday,0.27,0.29
+ Refrigerator ,120,24.0,30,31,3,Afternoon,Weekend,2.5,2.53
+ Refrigerator ,126,24.0,30,37,3,Afternoon,WEEKEND,3.37,2.9
+ Refrigerator ,189W,24.0,26,39,3,Afternoon ,weekday,4.83,4.71
+washing machine,690,3.4,25,51,5,Morning,WEEKEND,2.52,2.48
+ TV ,150,3.1,24,31,6,morning,Weekend,0.87,0.74
+TV,141,4.7,26,51,1,Afternoon,WEEKEND,0.49,0.58
+TV,108,5.2,19,28,4,Afternoon,Weekday,0.52,0.6
+Air Conditioner,1807,7.2,29,42,5,Evening,Weekend,17.01,16.79
+heater ,1552,3.1,5,44,5,Afternoon,weekday,5.16,5.75
+heater ,1423,5.1,15,28,4,Afternoon ,Weekday,8.66,8.99
+heater ,1595,3.8,4,11,4,morning,WEEKEND,7.76,8.23
+Washing Machine,649,1.3,19,12,6, EVENING ,Weekend,0.88,0.92
+Washing Machine,484,1.0,19,32,6,Night,WEEKEND,0.69,0.64
+refrigerator,166,24.0,30,40,1,Afternoon ,WEEKEND,2.89,3.44
+washing machine,643W,2.0,29,26,4, EVENING ,Weekday,1.2,1.43
+refrigerator,173,24.0,23,31,2,Afternoon ,WEEKEND,4.45,4.41
+Washing Machine,591,1.3,21,42,2,morning,Weekend,0.31,0.67
+heater ,1592,4.7,14,12,4,Afternoon,weekday,8.37,8.24
+Washing Machine,509,1.0,22,51,4,Afternoon ,Weekday,0.58,0.61
+air conditioner,2057,4.3,35,51,6,Afternoon ,WEEKEND,12.36,12.52
+air conditioner,1965,6.0,38,11,3,Afternoon,Weekend,13.44,13.39
+heater ,1593,3.5,12,42,4, EVENING ,Weekend,6.8,6.8
+heater ,1533,3.2,12,22,5,Afternoon,WEEKEND,5.45,6.47
+ Refrigerator ,272,24.0,29,21,4,morning,weekday,missing,5.1
+Microwave,1190,0.4,23,41,5,Afternoon ,weekday,0.95,0.61
+AC,1709,4.5,36,11,6,Evening,Weekend,9.1,9.2
+heater ,1482,4.1,12,44,5,Evening,weekday,6.66,6.78
+ Refrigerator ,103,24.0,24,49,1,morning,weekday,2.28,2.46
+ Refrigerator ,223,24.0,23,48,2,Afternoon ,Weekday,5.09,5.13
+air conditioner,1906,6.0,38,37,6, EVENING ,weekday,15.68,15.45
+washing machine,629,1.5,31,missing,5,Afternoon ,Weekday,0.83,1.13
+Microwave,1138,0.4,22,35,6,Night,Weekend,0.46,0.72
+Heater,1679,5.3,9,51,5,Morning,Weekday,9.86,9.76
+Microwave,1020W,0.2,29,20,2,Evening,Weekend,0.7,0.23
+Microwave,1086,0.2,25,54,3,Morning,weekday,0.16,0.27
+Heater,1651,5.2,4,14,4,morning,WEEKEND,9.17,9.46
+ TV ,189,3.0,20,16,unknown,morning,Weekday,0.96,0.6
+TV,57,4.7,29,26,1,Morning,Weekend,0.1,0.2
+heater ,1568,4.4,12,19,5,Afternoon,Weekend,7.58,7.33
+Microwave,1010,0.4,27,24,1,Afternoon,weekday,0.12,0.35
+Microwave,1113,0.2,23,39,4, EVENING ,Weekday,0.1,0.32
+washing machine,538,2.9,18,21,missing,Afternoon ,Weekend,1.54,1.36
+Heater,1545,4.9,11,16,N/A, EVENING ,weekday,8.59,8.5
+AC,1701,4.8,40,30,4,Evening,Weekend,10.59,11.04
+Heater,1543W,5.2,9,52,5,Afternoon ,Weekend,12.01,11.47
+washing machine,607,2.6,26,46,2,Afternoon,WEEKEND,1.88,1.65
+air conditioner,2092,6.3,31,49,3,Evening,Weekday,?,15.05
+washing machine,654,2.4,19,50,missing,Morning,WEEKEND,1.9,1.88
+TV,15000,2.6,29,26,6,Evening,weekday,0.58,0.36
+refrigerator,275,24.0,21,13,4,Afternoon,WEEKEND,6.36,6.5
+Washing Machine,503,1.1,25,N/A,5,Afternoon,Weekend,0.56,0.68
+ Refrigerator ,116,24.0,24,16,4,morning,Weekend,2.85,2.76
+TV,74,6.5,21,13,6,Evening,weekday,0.36,0.66
+Heater,1608,5.4,15,39,2, EVENING ,Weekday,N/A,9.35
+ Refrigerator ,193,24.0,24,42,2,Afternoon ,WEEKEND,5.18,4.92
+Washing Machine,494,2.7,18,N/A,6,Evening,weekday,1.95,1.61
+ TV ,112,3.2,26,unknown,5,Morning,WEEKEND,0.1,0.45
+ TV ,122,1.6,31,54,6,morning,weekday,0.26,0.4
+air conditioner,1968,3.4,40,46,4,Morning,Weekday,8.51,9.37
+Washing Machine,539,1.6,21,unknown,2,Night,Weekend,0.79,0.87
+ Refrigerator ,251,24.0,26,45,5, EVENING ,WEEKEND,5.65,5.68
+Microwave,1134,0.2,20,37,unknown,Afternoon,WEEKEND,0.1,0.39
+heater ,1469,5.6,15,18,5,morning,WEEKEND,unknown,10.44
+Washing Machine,576,0.8,19,41,3,Night,WEEKEND,0.57,0.54
+TV,173,4.4,29,N/A,1,morning,weekday,0.46,0.71
+Air Conditioner,1846,6.6,30,34,5,Night,Weekday,13.6,13.11
+heater ,1470,5.5,9,42,1,Afternoon ,Weekend,8.3,7.65
+Washing Machine,547,2.4,18,19,5,morning,Weekend,1.53,1.33
+TV,117,4.9,20,48,6, EVENING ,WEEKEND,0.75,0.73
+air conditioner,1962,5.0,28,41,5,Night,Weekend,12.3,12.53
+Washing Machine,592,0.5,25,49,5, EVENING ,weekday,?,0.46
+Microwave,1025,1.0,18,11,1, EVENING ,weekday,1.24,0.98
+ Refrigerator ,105W,24.0,24,32,1,Evening,Weekend,2.18,2.44
+ TV ,21,3.9,27,17,4,morning,WEEKEND,0.1,0.2
+Heater,1541,6.3,15,29,6,Night,Weekend,11.08,11.21
+air conditioner,1926,4.7,29,52,6,morning,WEEKEND,10.79,11.08
+ Refrigerator ,297,24.0,120,28,1,Night,weekday,unknown,7.32
+washing machine,520,2.0,31,22,2,Night,WEEKEND,1.32,1.02
+washing machine,627,1.5,28,14,1, EVENING ,Weekday,1.08,0.93
+Washing Machine,509,1.3,29,20,2,Afternoon ,WEEKEND,0.37,0.55
+AC,1830,7.0,39,37,6,Afternoon,Weekend,14.71,14.89
+AC,1740,8.1,30,27,2,Evening,Weekday,17.07,17.56
+Air Conditioner,1768,6.0,39,20,6,Night,Weekday,12.7,13.05
+Heater,1655,6.2,10,?,1,Night,WEEKEND,11.03,11.21
+TV,15000,4.5,23,24,5,Night,Weekday,1.16,0.94
+AC,1814,7.2,28,15,3,Evening,weekday,,12.91
+Washing Machine,591,1.8,21,N/A,6, EVENING ,weekday,1.1,1.26
+Heater,1513,4.9,13,47,6,Morning,weekday,9.17,9.02
+washing machine,562,2.3,26,28,4,morning,WEEKEND,1.25,1.32
+Air Conditioner,1819,5.7,31,34,6,Evening,Weekday,10.82,11.14
+heater ,1595,4.9,14,13,4, EVENING ,Weekend,9.23,9.26
+Air Conditioner,1875,5.8,41,21,3,Evening,WEEKEND,14.17,13.75
+refrigerator,158,24.0,21,missing,3,Night,Weekday,4.41,3.9
+heater ,1467,4.7,6,26,2,morning,weekday,8.72,9.26
+Microwave,1173,0.2,26,28,2,Night,Weekday,0.18,0.26
+air conditioner,2031,4.8,34,16,4,morning,weekday,10.39,10.26
+AC,1790,6.6,34,50,1,Afternoon ,Weekend,14.43,14.49
+Air Conditioner,1760,5.8,39,15,2,Afternoon,Weekday,11.93,12.35
+air conditioner,2067,2.4,41,44,5,Night,WEEKEND,10.09,9.38
+Air Conditioner,1745W,5.5,28,17,3,Afternoon ,Weekday,10.12,10.56
+TV,126,3.7,23,50,1,morning,Weekday,0.47,0.39
+air conditioner,1958,4.7,34,50,5,Evening,Weekday,12.75,12.31
+Heater,1699,4.3,8,54,4,morning,WEEKEND,9.3,9.59
+Microwave,1196,0.2,25,34,3,Night,Weekend,0.48,0.3
+refrigerator,236,24.0,29,49,4,Morning,Weekday,5.76,6.26
+heater ,1566,3.6,5,38,1,Afternoon,Weekend,N/A,7.52
+AC,1750W,6.2,33,18,1, EVENING ,weekday,11.66,11.6
+air conditioner,2043,6.7,41,49,2,Morning,Weekday,14.97,15.16
+Air Conditioner,1754,5.8,40,24,2,Morning,Weekend,11.26,11.12
+AC,1863,7.3,30,54,1,morning,Weekend,unknown,15.66
+AC,1731,8.0,30,12,4,Afternoon ,WEEKEND,14.74,14.82
+Microwave,1160,0.3,25,48,2,Night,Weekday,0.38,0.34
+Air Conditioner,1892,6.0,42,29,,Night,weekday,14.05,14.22
+ TV ,58,3.3,18,47,5,Afternoon,WEEKEND,0.25,0.39
+AC,1768,5.4,41,33,3,Afternoon,weekday,12.22,12.75
+Washing Machine,508,0.2,30,missing,5, EVENING ,Weekend,0.32,0.25
+washing machine,633,1.1,21,27,4,Evening,weekday,0.79,0.8
+AC,1808,6.9,33,32,3,Evening,Weekend,15.2,14.95
+TV,104W,4.1,31,53,5,Evening,Weekday,0.28,0.6
+air conditioner,2040,5.2,42,43,3,Night,weekday,15.43,15.17
+AC,1803,8.2,33,33,2,Night,Weekday,17.04,16.25
+air conditioner,1963,3.5,38,43,3, EVENING ,Weekday,9.57,9.58
+Washing Machine,588,0.8,24,37,5, EVENING ,Weekend,0.77,0.66
+Microwave,1051,0.4,23,45,6,Evening,Weekday,1.11,0.53
+ TV ,201,3.4,26,26,,Night,weekday,1.25,0.79
+washing machine,608,3.7,20,18,4,morning,Weekday,2.38,2.09
+Heater,1646,5.7,9,12,3,Afternoon,WEEKEND,10.03,10.01
+refrigerator,283,24.0,26,33,?, EVENING ,Weekday,7.39,7.43
+refrigerator,90,24.0,22,22,N/A,Night,WEEKEND,2.29,2.24
+air conditioner,2093,5.1,42,49,,Afternoon,Weekend,15.41,15.75
+Washing Machine,524,2.6,20,17,3,Afternoon,Weekday,1.63,1.62
+AC,1867,7.1,28,unknown,2,Night,WEEKEND,13.45,13.47
+TV,32,3.7,25,40,4,Afternoon ,Weekend,0.1,0.24
+Washing Machine,502W,0.8,24,10,1,Morning,Weekend,?,0.35
+refrigerator,108W,24.0,26,34,6,Afternoon ,Weekday,missing,2.94
+TV,29,4.2,21,17,6, EVENING ,Weekend,0.56,0.31
+Heater,1578W,5.6,9,39,4,morning,weekday,9.92,9.65
+washing machine,658,2.6,31,43,2,Morning,WEEKEND,1.56,1.82
+Air Conditioner,1792,5.8,37,27,6, EVENING ,Weekday,12.21,11.87
+ TV ,130,4.6,18,52,3,Night,WEEKEND,0.1,0.66
+Heater,1678,3.8,8,26,2,Afternoon ,Weekend,8.31,8.28
+heater ,1519,5.5,10,19,5,Morning,WEEKEND,missing,10.66
+refrigerator,173,24.0,20,28,4,morning,Weekend,4.61,4.61
+washing machine,527,1.0,26,44,2, EVENING ,weekday,0.47,0.51
+heater ,1412,6.1,5,,N/A,Morning,Weekday,10.16,10.04
+Washing Machine,549,2.1,30,32,unknown,morning,Weekend,1.32,1.37
+ Refrigerator ,117,24.0,20,37,6,Night,WEEKEND,3.15,3.38
+Washing Machine,514,1.6,21,30,4,Morning,Weekend,0.97,0.9
+refrigerator,163,24.0,31,22,5, EVENING ,WEEKEND,4.69,4.54
+TV,182,4.8,26,12,6,Morning,WEEKEND,1.07,1.07
+ TV ,162,3.2,21,35,6,Afternoon ,Weekday,0.94,0.81
+ TV ,190,3.5,27,39,missing,Afternoon,Weekday,0.44,0.66
+TV,26,4.6,21,21,3,Night,weekday,0.36,0.2
+Heater,1699,6.9,9,13,3,morning,Weekday,13.44,13.25
+Microwave,1171,2.5,27,?,?,Evening,weekday,3.47,3.03
+Air Conditioner,1758,99.0,37,53,,Morning,Weekend,14.25,13.99
+air conditioner,1910,6.6,40,17,4,Evening,Weekday,13.79,13.6
+Heater,1681,4.8,15,40,1, EVENING ,Weekend,8.99,8.93
+ Refrigerator ,151,24.0,26,20,6,Morning,Weekend,3.9,4.14
+TV,40,4.8,31,14,6,Afternoon,Weekend,0.1,0.37
+air conditioner,1905,6.5,40,17,unknown,morning,weekday,13.72,13.6
+ TV ,86,2.7,120,20,4,Night,weekday,0.1,0.34
+ TV ,99,3.5,31,21,3,morning,Weekday,0.77,0.37
+Air Conditioner,1806,5.9,38,25,2,Afternoon,WEEKEND,13.05,13.27
+Air Conditioner,1870,7.0,34,26,3,Night,WEEKEND,15.59,15.46
+Microwave,1136,1.0,22,19,4,Afternoon,weekday,0.84,1.22
+Microwave,1103W,1.0,19,17,3, EVENING ,Weekday,0.66,1.1
+Microwave,1140,0.2,30,19,missing,Evening,Weekend,0.1,0.29
+ Refrigerator ,247,24.0,22,39,3,Evening,Weekday,6.1,6.61
+Air Conditioner,1717,5.6,40,38,4,morning,weekday,13.94,14.02
+Air Conditioner,1757W,6.0,37,54,4,Evening,Weekday,?,13.06
+heater ,1467,4.3,8,20,3,morning,weekday,8.24,8.38
+Microwave,1198,0.2,24,16,2,Night,weekday,0.15,0.26
+ Refrigerator ,208,24.0,30,17,1,Evening,WEEKEND,3.46,3.57
+heater ,1467,4.9,13,24,,morning,Weekday,8.79,8.9
+Heater,1690,5.7,7,unknown,5,Evening,Weekend,12.46,12.43
+Heater,1615,6.1,10,54,5,Afternoon ,Weekend,13.43,12.7
+heater ,1587W,3.6,9,15,5,Afternoon ,Weekend,7.54,7.55
+air conditioner,1985,4.8,42,13,4,Night,Weekend,13.0,12.6
+heater ,1596,3.9,10,39,6,Evening,Weekend,7.96,8.07
+Washing Machine,488,0.7,25,31,5, EVENING ,Weekday,0.17,0.48
+washing machine,530,2.1,27,19,3,Morning,weekday,0.9,1.0
+Air Conditioner,1767,8.3,31,34,3,morning,Weekday,16.07,16.36
+heater ,1450W,3.3,7,,1,Afternoon ,WEEKEND,6.07,6.2
+AC,1868,7.4,40,?,?, EVENING ,Weekend,15.05,14.91
+Air Conditioner,1762,6.0,28,21,5,Evening,Weekend,11.96,11.82
+ Refrigerator ,245W,24.0,18,28,N/A,Night,weekday,5.66,5.68
+ Refrigerator ,158,24.0,30,28,6,Morning,Weekday,4.69,4.14
+Washing Machine,462,1.5,31,44,3,Night,WEEKEND,0.45,0.71
+washing machine,501,1.2,25,31,3, EVENING ,WEEKEND,0.66,0.65
+ Refrigerator ,171,24.0,29,42,1,Night,Weekend,3.72,4.09
+Microwave,1144,0.2,23,42,5,Morning,WEEKEND,0.31,0.36
+ TV ,42,3.0,31,missing,3, EVENING ,weekday,,0.18
+ Refrigerator ,281,24.0,24,24,6,Afternoon ,weekday,7.06,6.92
+ Refrigerator ,128,24.0,25,,2,Morning,Weekday,3.39,3.4
+TV,36,3.7,19,15,2,morning,WEEKEND,0.1,0.15
+TV,188W,2.5,18,36,1,Afternoon,Weekend,,0.4
+Microwave,1023,0.3,27,47,6,Afternoon,weekday,N/A,0.46
+Washing Machine,469,1.1,28,50,6,Evening,weekday,1.43,0.82
+Washing Machine,516,2.3,23,24,3,Afternoon,Weekday,1.78,1.32
+heater ,1586,6.7,7,11,5,Evening,Weekend,11.55,11.37
+heater ,1427,5.8,4,54,4,Afternoon ,Weekday,10.89,10.87
+TV,183,4.6,26,54,6, EVENING ,Weekday,1.47,0.96
+AC,1862,6.5,31,30,1,Night,weekday,12.5,12.98
+heater ,1554,6.1,13,28,4,Afternoon,Weekend,11.34,11.49
+Air Conditioner,1850,6.3,42,41,4,Afternoon ,WEEKEND,14.18,14.39
+refrigerator,132,24.0,19,49,3,morning,Weekend,3.84,3.39
+ TV ,25W,3.2,19,39,2,Night,weekday,0.39,0.11
+air conditioner,2001,4.3,28,36,6,Evening,Weekend,10.54,10.6
+Washing Machine,556,1.1,26,48,1,Afternoon,weekday,0.94,0.62
+Heater,1663,5.4,5,,5,Afternoon ,WEEKEND,10.12,10.93
+ TV ,195,1.8,26,22,4,Evening,Weekend,0.8,0.51
+Washing Machine,570,0.5,18,47,6,morning,WEEKEND,0.57,0.54
+Microwave,1020,1.0,19,16,3,Evening,WEEKEND,0.85,1.15
+Microwave,1026,0.2,25,51,missing,morning,Weekday,missing,0.17
+heater ,1454,3.4,10,41,5,Afternoon,Weekend,5.54,5.61
+air conditioner,2008,4.1,30,48,6,Morning,Weekend,10.89,10.82
+Microwave,1194,0.9,31,31,1,morning,WEEKEND,0.64,0.95
+washing machine,544,2.7,18,49,5,Afternoon,Weekday,2.15,1.63
+Washing Machine,482,0.8,31,26,unknown,Night,weekday,0.56,0.53
+Microwave,15000,0.2,31,48,6,Afternoon ,weekday,?,0.44
+Heater,1571,6.3,14,18,1,Afternoon,WEEKEND,8.34,8.6
+AC,1797,7.0,30,unknown,6,Morning,Weekend,14.16,13.58
+washing machine,627,1.5,25,35,1,Morning,weekday,0.81,0.8
+refrigerator,282,24.0,18,26,3,Morning,weekday,6.82,6.03
+refrigerator,249,24.0,27,25,1, EVENING ,WEEKEND,5.72,5.4
+heater ,1485,5.3,12,53,3, EVENING ,Weekday,unknown,9.62
+air conditioner,2093,5.0,36,54,3,Morning,WEEKEND,13.24,13.64
+Heater,1535,4.9,15,54,2,Afternoon,Weekday,8.33,7.93
+ TV ,76,4.2,20,unknown,6,Afternoon ,Weekend,N/A,0.58
+ TV ,131,2.1,28,41,3, EVENING ,weekday,0.42,0.33
+heater ,1491,2.8,15,43,5,Afternoon,Weekday,4.99,5.64
+TV,118,4.3,22,28,4,morning,weekday,0.45,0.59
+Microwave,1133,1.9,30,26,3,Afternoon,Weekday,2.62,2.14
+Microwave,1169,0.7,30,22,3, EVENING ,WEEKEND,0.52,0.82
+Heater,1686,5.0,5,39,6,Afternoon ,WEEKEND,11.25,11.18
+Microwave,1114,0.2,27,32,missing, EVENING ,WEEKEND,0.1,0.25
+heater ,1594,4.7,9,12,6,Night,Weekday,7.61,7.91
+ Refrigerator ,234,24.0,23,19,5,Afternoon ,weekday,6.3,6.09
+Washing Machine,533,2.3,27,46,4,Night,Weekday,1.26,1.28
+Washing Machine,519,1.9,30,30,3, EVENING ,Weekend,1.02,1.13
+ TV ,166,4.9,24,49,5, EVENING ,Weekend,1.12,0.93
+Washing Machine,574,2.1,23,36,?,Evening,Weekday,2.14,1.41
+Air Conditioner,1734,4.8,31,20,3,morning,weekday,9.12,9.13
+Microwave,1047,1.7,22,44,6,Afternoon ,weekday,2.02,2.08
+air conditioner,2096,5.0,32,19,3,Morning,WEEKEND,13.01,13.16
+ TV ,162,3.3,21,28,3,morning,weekday,0.8,0.61
+heater ,1413,5.4,14,41,unknown,morning,Weekend,8.92,9.03
+Heater,1574W,5.2,8,53,5,Morning,Weekday,9.42,9.39
+Air Conditioner,1763,5.3,34,13,1,Afternoon ,WEEKEND,10.52,9.97
+Air Conditioner,1792,7.6,41,23,2,Night,WEEKEND,16.98,17.27
+AC,1736,9.6,28,47,2,Night,Weekend,21.53,21.06
+Heater,1542,4.2,9,29,?,Night,WEEKEND,8.09,7.85
+ TV ,16,2.4,30,36,5,Afternoon ,WEEKEND,0.1,0.18
+Air Conditioner,1818W,5.8,36,17,5,Afternoon ,Weekday,11.66,11.72
+AC,1770,5.8,39,43,3,Night,Weekend,12.94,13.03
+ Refrigerator ,114,24.0,22,?,3,morning,Weekend,2.54,2.91
+Heater,1559,6.4,13,48,missing,Night,Weekday,10.18,9.92
+refrigerator,281,24.0,23,19,6,Evening,WEEKEND,7.75,7.78
+Air Conditioner,1764,4.2,34,unknown,2,Morning,weekday,9.48,9.67
+heater ,1421,4.7,12,27,3,Morning,WEEKEND,6.69,7.05
+AC,1776,6.0,36,21,4, EVENING ,weekday,11.76,11.66
+AC,1843,6.9,34,?,4,morning,Weekday,12.87,12.3
+TV,33,5.6,23,13,4,Afternoon ,WEEKEND,unknown,0.32
+Washing Machine,640,0.6,23,37,5,morning,Weekend,0.34,0.5
+Washing Machine,649,2.3,24,17,6,Morning,Weekend,1.71,1.86
+air conditioner,2086,4.5,39,40,5,Morning,weekday,12.93,13.13
+TV,103,3.3,24,missing,4,morning,Weekday,0.56,0.45
+ Refrigerator ,180,24.0,23,45,,Morning,weekday,3.77,4.05
+Heater,1608,5.3,10,17,3,Afternoon ,Weekday,10.11,9.63
+washing machine,501W,1.8,23,27,1, EVENING ,weekday,N/A,0.84
+AC,1712W,5.9,38,30,6,Evening,WEEKEND,11.51,11.62
+Microwave,1052,2.4,24,39,1,Morning,WEEKEND,?,2.6
+heater ,1431,4.7,15,42,5,Evening,Weekend,7.2,6.94
+TV,209,5.6,20,20,3,Afternoon ,Weekday,0.82,1.25
+refrigerator,174,24.0,25,32,6, EVENING ,Weekend,4.52,4.77
+air conditioner,1953,4.3,35,50,1,Morning,Weekday,10.28,10.25
+air conditioner,2002,5.3,39,26,6,Evening,WEEKEND,13.99,14.13
+washing machine,536,1.0,20,missing,6,Afternoon,Weekday,0.94,0.68
+air conditioner,2085,6.5,39,44,6,Evening,WEEKEND,15.55,15.93
+Heater,1596W,99.0,15,17,2, EVENING ,Weekday,7.02,6.99
+TV,171,1.0,31,51,1,Afternoon,WEEKEND,0.59,0.13
+air conditioner,2051,6.1,32,12,2,Night,Weekend,13.26,13.04
+AC,1783,6.9,39,32,4,Afternoon ,WEEKEND,14.05,13.77
+heater ,1465,4.7,6,30,1,morning,Weekend,8.38,8.69
+TV,129,4.0,21,24,6,Morning,Weekday,1.02,0.61
+Washing Machine,562,0.6,28,53,4,Evening,Weekend,1.01,0.44
+Heater,1637,5.2,12,17,3,morning,WEEKEND,9.39,9.66
+heater ,1454,3.4,10,41,5,Afternoon,Weekend,5.54,5.61
+refrigerator,248,24.0,27,33,4,morning,WEEKEND,5.5,5.24
+Microwave,1160,0.3,25,48,2,Night,Weekday,0.38,0.34
+Heater,1690,5.7,7,unknown,5,Evening,Weekend,12.46,12.43
+ Refrigerator ,189W,24.0,26,39,3,Afternoon ,weekday,4.83,4.71
+Washing Machine,591,1.3,21,42,2,morning,Weekend,0.31,0.67
+Air Conditioner,1807,7.2,29,42,5,Evening,Weekend,17.01,16.79
+Microwave,1169,0.7,30,22,3, EVENING ,WEEKEND,0.52,0.82
+Washing Machine,649,1.3,19,12,6, EVENING ,Weekend,0.88,0.92
+Microwave,1190,0.4,23,41,5,Afternoon ,weekday,0.95,0.61
+TV,182,4.8,26,12,6,Morning,WEEKEND,1.07,1.07
+air conditioner,2092,6.3,31,49,3,Evening,Weekday,?,15.05
+heater ,1498,4.2,12,39,1,Morning,Weekend,,9.08
+Heater,1646,5.7,9,12,3,Afternoon,WEEKEND,10.03,10.01
+Air Conditioner,1785W,4.7,120,53,1,Morning,Weekday,13.64,13.38
+Air Conditioner,1762,6.0,28,21,5,Evening,Weekend,11.96,11.82
+AC,1746,6.6,36,23,1,morning,Weekend,14.26,14.2
+ Refrigerator ,151,24.0,26,20,6,Morning,Weekend,3.9,4.14
+air conditioner,2086,4.5,39,40,5,Morning,weekday,12.93,13.13
+ Refrigerator ,192,24.0,23,34,missing,Afternoon,Weekday,4.96,4.88
